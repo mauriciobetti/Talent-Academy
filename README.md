@@ -12,4 +12,4 @@ Instruções de uso e de instalação e requisitos de sistema, incluindo navegad
   Recomendação de plano de ação de acordo com os resultados do mapeamento
   Geração automática de excel e ppt para exportar dados e dashboards
   Filtros de dados personalizáveis
-  Compatível com navegadores: Google Chrome, Microsoft Edge, Internet Explorer e Firefox
+  Compatível com navegadores: Google Chrome, Microsoft Edge e Firefox
